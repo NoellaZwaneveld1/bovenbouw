@@ -1,0 +1,15 @@
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/bin/Debug/net9.0/Train
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/bin/Debug/net9.0/Train.deps.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/bin/Debug/net9.0/Train.runtimeconfig.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/bin/Debug/net9.0/Train.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/bin/Debug/net9.0/Train.pdb
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.AssemblyInfoInputs.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.AssemblyInfo.cs
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.csproj.CoreCompileInputs.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.sourcelink.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/refint/Train.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.pdb
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/Train.genruntimeconfig.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/0 - Git & Git Workflow/Train/Train/obj/Debug/net9.0/ref/Train.dll
