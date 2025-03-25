@@ -1,0 +1,15 @@
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.AssemblyInfo.cs
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.sourcelink.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/bin/Debug/net9.0/PokemonBattleSimulator
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/bin/Debug/net9.0/PokemonBattleSimulator.deps.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/bin/Debug/net9.0/PokemonBattleSimulator.runtimeconfig.json
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/bin/Debug/net9.0/PokemonBattleSimulator.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/bin/Debug/net9.0/PokemonBattleSimulator.pdb
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/refint/PokemonBattleSimulator.dll
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.pdb
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/PokemonBattleSimulator.genruntimeconfig.cache
+/Users/noellazwaneveld/school_opdrachten/bovenbouw/fase 1/Fase 1 (Git && OOP + FE&BE)/PokemonBattleSimulator/PokemonBattleSimulator/obj/Debug/net9.0/ref/PokemonBattleSimulator.dll
